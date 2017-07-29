@@ -1,8 +1,12 @@
 {
   "name": "pui",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "pui ",
   "main": "./dist/pui.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yishibakaien/pui.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
